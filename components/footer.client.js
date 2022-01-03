@@ -2,8 +2,7 @@ export default function Footer() {
   return (
     <div>
       <footer className="footer">
-        Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC |
-        Contact
+        <a href="https://www.santilena.com.br">Santilena</a>
       </footer>
 
       <style
