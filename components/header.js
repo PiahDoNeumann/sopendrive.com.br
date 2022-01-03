@@ -70,7 +70,7 @@ export default function Header() {
               <span className="logo">
                 <Logo />
               </span>
-              <span className="site-title">Hacker Next</span>
+              <span className="site-title">So Pendrive</span>
             </a>
           </Link>
           <div className="nav">
